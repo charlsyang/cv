@@ -26,18 +26,27 @@ const Memorial = () => {
         </div>
         <p className={`${styles.hiddenText}`}>
           Thank you &lt;3 <br />
-          <a className={`${styles.link}`} href="https://andychung.me/">
+          <a
+            className={`${styles.link}`}
+            href="https://andychung.me/"
+            target="_blank"
+          >
             @andy
           </a>{" "}
           <br />{" "}
           <a
             className={`${styles.link}`}
             href="https://www.linkedin.com/in/mehdi-mulani-3972b8187/"
+            target="_blank"
           >
             @mehdi
           </a>{" "}
           <br />{" "}
-          <a className={`${styles.link}`} href="https://shen.land/">
+          <a
+            className={`${styles.link}`}
+            href="https://shen.land/"
+            target="_blank"
+          >
             @shen
           </a>
         </p>
