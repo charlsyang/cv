@@ -1,0 +1,746 @@
+{
+  "general": {
+    "profilePhoto": "/content/media/profilePhoto.jpg",
+    "username": "charlsy",
+    "displayName": "Charlsy Yang",
+    "profession": "Designer",
+    "location": "Mountain View",
+    "pronouns": "He/Him",
+    "byline": "Designer in Mountain View, He/Him",
+    "website": "https://charlsyang.com",
+    "websiteURL": "https://charlsyang.com",
+    "about": "I am a software designer with craft expertise in visual and interaction design and a passion for web development. I have worked in a variety of fast-paced, high-impact professional environments such as startups, consultancy, and in-house brand and product design teams.\n\nI am excited about toolmaking and storytelling on the web, working on new interfaces and interactions, building things from zero to one, and tackling complex problems with simple solutions.",
+    "status": {
+      "text": null,
+      "emoji": null,
+      "timestamp": null
+    },
+    "sectionOrder": [
+      "Writing",
+      "Work Experience",
+      "Projects",
+      "Side Projects",
+      "Exhibitions",
+      "Speaking",
+      "Awards",
+      "Features",
+      "Education",
+      "Contact",
+      "Volunteering",
+      "Certifications",
+      "Teams"
+    ]
+  },
+  "projects": [
+    {
+      "id": "NzFTdY8JVi2jBLLnVmOp",
+      "year": "2024",
+      "heading": "Copilot+ PC Introduction at Microsoft",
+      "url": "https://youtu.be/OPklYglhlhg?si=nubWM8ozI7IjiJyS&t=345",
+      "collaborators": [],
+      "description": "Led the design of Copilot+ PC features introduction experience in the Windows setup process from end to end to increase awareness and facilitate discovery.",
+      "attachments": [
+        {
+          "type": "video",
+          "width": 2890,
+          "height": 1632,
+          "url": "/content/media/Copilot-PC-Introduction-at-Microsoft-1.mp4"
+        },
+        {
+          "type": "video",
+          "width": 1920,
+          "height": 960,
+          "url": "/content/media/Copilot-PC-Introduction-at-Microsoft-2.mp4"
+        }
+      ],
+      "type": "project",
+      "title": "Copilot+ PC Introduction",
+      "company": "Microsoft"
+    },
+    {
+      "id": "bKnefmy8GuDIqHhck9H0",
+      "year": "2024",
+      "heading": "Surface App Icon Redesign at Microsoft",
+      "url": "https://apps.microsoft.com/detail/9wzdncrfjb8p?hl=en-US&gl=US",
+      "collaborators": [],
+      "description": "To strengthen and streamline Surface App’s identity, the new icon increases the logo presence while trying to strike a balance between the physicality of devices and the flat Windows 11 icon design language.",
+      "attachments": [
+        {
+          "type": "image",
+          "width": 3840,
+          "height": 2160,
+          "url": "/content/media/Surface-App-Icon-Redesign-at-Microsoft-1.png"
+        },
+        {
+          "type": "image",
+          "width": 3840,
+          "height": 2160,
+          "url": "/content/media/Surface-App-Icon-Redesign-at-Microsoft-2.png"
+        },
+        {
+          "type": "image",
+          "width": 3840,
+          "height": 2160,
+          "url": "/content/media/Surface-App-Icon-Redesign-at-Microsoft-3.png"
+        }
+      ],
+      "type": "project",
+      "title": "Surface App Icon Redesign",
+      "company": "Microsoft"
+    },
+    {
+      "id": "Rbvy2I5OEyNFqBpNHT2s",
+      "year": "2022",
+      "heading": "Product Icons Redesign at Rubrik",
+      "url": null,
+      "collaborators": [],
+      "description": "",
+      "attachments": [
+        {
+          "type": "image",
+          "width": 1920,
+          "height": 1080,
+          "url": "/content/media/Product-Icons-Redesign-at-Rubrik-1.png"
+        },
+        {
+          "type": "video",
+          "width": 2046,
+          "height": 1080,
+          "url": "/content/media/Product-Icons-Redesign-at-Rubrik-2.mp4"
+        },
+        {
+          "type": "image",
+          "width": 1920,
+          "height": 1080,
+          "url": "/content/media/Product-Icons-Redesign-at-Rubrik-3.png"
+        },
+        {
+          "type": "image",
+          "width": 1920,
+          "height": 1080,
+          "url": "/content/media/Product-Icons-Redesign-at-Rubrik-4.png"
+        },
+        {
+          "type": "image",
+          "width": 1920,
+          "height": 1080,
+          "url": "/content/media/Product-Icons-Redesign-at-Rubrik-5.png"
+        }
+      ],
+      "type": "project",
+      "title": "Product Icons Redesign",
+      "company": "Rubrik"
+    },
+    {
+      "id": "zJCxKFGbevnNcmwqKADR",
+      "year": "2021",
+      "heading": "Store of the Future at IDEO",
+      "url": "https://www.ideo.com/works/sephora",
+      "collaborators": [],
+      "description": "Worked in a project team of four helping Sephora reconnect with digital-first shoppers by transforming its in-store experience in Asia. Ideated, designed, and iterated on digital concepts for multiple in-store touch points.",
+      "attachments": [
+        {
+          "type": "image",
+          "width": 2880,
+          "height": 1640,
+          "url": "/content/media/Store-of-the-Future-at-IDEO-1.png"
+        },
+        {
+          "type": "image",
+          "width": 4908,
+          "height": 2762,
+          "url": "/content/media/Store-of-the-Future-at-IDEO-2.jpg"
+        }
+      ],
+      "type": "project",
+      "title": "Store of the Future",
+      "company": "IDEO"
+    }
+  ],
+  "sideProjects": [
+    {
+      "id": "5vUmsEIQ5Mjz6Gimr3Cx",
+      "year": "2023",
+      "heading": "Embodied Type Glove",
+      "url": null,
+      "collaborators": [],
+      "description": "A smart glove that lets you interact with typography in a tangible way.",
+      "attachments": [],
+      "type": "sideProject",
+      "title": "Embodied Type Glove",
+      "company": null
+    }
+  ],
+  "exhibitions": [],
+  "talks": [],
+  "writing": [
+    {
+      "id": "rvQMWbV99pmcTKigUJ3N",
+      "year": "2022",
+      "heading": "Interestingness",
+      "url": "https://charlsyang.com/blog/interestingness",
+      "collaborators": [],
+      "description": "What are the qualities of people I find inspiring",
+      "attachments": [],
+      "type": "writing",
+      "title": "Interestingness",
+      "publisher": null
+    },
+    {
+      "id": "zM2ebKlbNMWjMIkuHJnH",
+      "year": "2022",
+      "heading": "Tangibility, Design, and Graphicacy",
+      "url": "https://charlsyang.com/blog/tangibility",
+      "collaborators": [],
+      "description": "What design means to me",
+      "attachments": [],
+      "type": "writing",
+      "title": "Tangibility, Design, and Graphicacy",
+      "publisher": null
+    },
+    {
+      "id": "cMtTZizHyUgfujUioeml",
+      "year": "2022",
+      "heading": "Materials and Makers",
+      "url": "https://charlsyang.com/blog/materials-and-makers",
+      "collaborators": [],
+      "description": "Why (I think) designers should code",
+      "attachments": [],
+      "type": "writing",
+      "title": "Materials and Makers",
+      "publisher": null
+    }
+  ],
+  "awards": [],
+  "features": [],
+  "workExperience": [
+    {
+      "id": "vWN2l41KhJWJvQEiWR0S",
+      "year": "2024 — Now",
+      "heading": "Interaction Designer at Google",
+      "url": "http://google.com",
+      "collaborators": [],
+      "description": "",
+      "attachments": [],
+      "type": "workExperience",
+      "title": "Interaction Designer",
+      "company": "Google",
+      "location": "Mountain View, CA"
+    },
+    {
+      "id": "2IR5ADI2FMnV9jDRAcL8",
+      "year": "2023 — 2024",
+      "heading": "Product Designer (Contract) at Microsoft",
+      "url": "https://www.microsoft.com/en-us/surface",
+      "collaborators": [],
+      "description": "Bridging bits and atoms on the Surface design team, supporting Surface App and exploring AI-augmented multimodal interactions.",
+      "attachments": [],
+      "type": "workExperience",
+      "title": "Product Designer (Contract)",
+      "company": "Microsoft",
+      "location": "Redmond, WA"
+    },
+    {
+      "id": "m6HVzzGij5QMpubGLAVM",
+      "year": "2022 — 2022",
+      "heading": "Product Designer (Intern/Contract) at Rubrik",
+      "url": "https://rubrik.com",
+      "collaborators": [],
+      "description": "Designed the landing page for Rubrik’s design system website, a set of animated icons for the system-wide app switcher menu, as well as UX flows for existing and new features on Rubrik’s data security SaaS platform.",
+      "attachments": [],
+      "type": "workExperience",
+      "title": "Product Designer (Intern/Contract)",
+      "company": "Rubrik",
+      "location": "Remote in Seattle"
+    },
+    {
+      "id": "DGjKpnzgxkvsEBKIp7VV",
+      "year": "2021 — 2021",
+      "heading": "Interaction Design Intern at IDEO",
+      "url": "https://ideo.com",
+      "collaborators": [],
+      "description": "Ideated, designed, and iterated on multiple digital concepts of the future retail experience for a multinational skincare and beauty retailer.",
+      "attachments": [],
+      "type": "workExperience",
+      "title": "Interaction Design Intern",
+      "company": "IDEO",
+      "location": "Shanghai, China"
+    },
+    {
+      "id": "pdKj8hE3KfQgJsB7Ri02",
+      "year": "2020 — 2020",
+      "heading": "Product Design Intern at Tide",
+      "url": "https://tide.fm/en_US/",
+      "collaborators": [],
+      "description": "Redesigned the sign-up experience on mobile and web for Tide, a mindfulness app with a 4.9 star rating and 1.4M daily active users.",
+      "attachments": [],
+      "type": "workExperience",
+      "title": "Product Design Intern",
+      "company": "Tide",
+      "location": "Guangzhou, China"
+    },
+    {
+      "id": "20jaW1Ytc0UwJS6u9vhz",
+      "year": "2019 — 2019",
+      "heading": "UI/UX Design Intern at NIO",
+      "url": "https://nio.com",
+      "collaborators": [],
+      "description": "Expedited the digital transformation of NIO’s Design Language System and redesigned two pages of the NIO marketing website.",
+      "attachments": [],
+      "type": "workExperience",
+      "title": "UI/UX Design Intern",
+      "company": "NIO",
+      "location": "Shanghai, China"
+    },
+    {
+      "id": "LVGt6K1igtnOaHFvmvVh",
+      "year": "2017 — 2018",
+      "heading": "Chief Designer at Outing Travel",
+      "url": "https://www.linkedin.com/company/outing-travel-轻旅圈/about/",
+      "collaborators": [
+        {
+          "displayName": "Alan Zhang",
+          "profilePhoto": "/content/collaborators/alanz.jpg",
+          "profileURL": "https://read.cv/alanz"
+        }
+      ],
+      "description": "Designed for various mediums from print to digital at Outing Travel, a community platform for like-minded travelers.",
+      "attachments": [],
+      "type": "workExperience",
+      "title": "Chief Designer",
+      "company": "Outing Travel",
+      "location": "Shenzhen, China"
+    }
+  ],
+  "volunteering": [],
+  "education": [
+    {
+      "id": "7zcy69CrfI59QGd6xdE7",
+      "year": "2021 — 2023",
+      "heading": "Master of Human Centered Design and Engineering at University of Washington",
+      "url": "https://www.hcde.washington.edu/",
+      "collaborators": [],
+      "description": null,
+      "attachments": [],
+      "type": "education",
+      "degree": "Master of Human Centered Design and Engineering",
+      "school": "University of Washington",
+      "location": "Seattle, Washington"
+    },
+    {
+      "id": "2O08WSfeCB9AROJQ4s7n",
+      "year": "2016 — 2020",
+      "heading": "Bachelor of Business Administration at The Chinese University of Hong Kong, Shenzhen",
+      "url": "https://www.cuhk.edu.cn/en",
+      "collaborators": [
+        {
+          "displayName": "Alan Zhang",
+          "profilePhoto": "/content/collaborators/alanz.jpg",
+          "profileURL": "https://read.cv/alanz"
+        }
+      ],
+      "description": "Marketing and Communication",
+      "attachments": [],
+      "type": "education",
+      "degree": "Bachelor of Business Administration",
+      "school": "The Chinese University of Hong Kong, Shenzhen",
+      "location": "Shenzhen, China"
+    }
+  ],
+  "certifications": [],
+  "contact": [
+    {
+      "id": "QavYW4z4iZD7Cn5eMKXw",
+      "platform": "Telegram",
+      "handle": "charlsyang",
+      "url": "https://t.me/charlsyang"
+    },
+    {
+      "id": "gR3bC7LnQwfbtQDBARGA",
+      "platform": "Instagram",
+      "handle": "charlsyang",
+      "url": "https://instagram.com/charlsyang"
+    },
+    {
+      "id": "tIhRhOW4lCd2878gRx4n",
+      "platform": "LinkedIn",
+      "handle": "charlsyang",
+      "url": "https://linkedin.com/in/charlsyang"
+    },
+    {
+      "id": "GHrhvLV7GsT5lkTHhUUI",
+      "platform": "Website",
+      "handle": "charlsyang.com",
+      "url": "https://charlsyang.com"
+    },
+    {
+      "id": "t9tqrDRq0DvMLW6xTDID",
+      "platform": "Email",
+      "handle": "hi@charlsy.me",
+      "url": "mailto:hi@charlsy.me"
+    }
+  ],
+  "allCollections": [
+    {
+      "name": "Writing",
+      "items": [
+        {
+          "id": "rvQMWbV99pmcTKigUJ3N",
+          "year": "2022",
+          "heading": "Interestingness",
+          "url": "https://charlsyang.com/blog/interestingness",
+          "collaborators": [],
+          "description": "What are the qualities of people I find inspiring",
+          "attachments": [],
+          "type": "writing",
+          "title": "Interestingness",
+          "publisher": null
+        },
+        {
+          "id": "zM2ebKlbNMWjMIkuHJnH",
+          "year": "2022",
+          "heading": "Tangibility, Design, and Graphicacy",
+          "url": "https://charlsyang.com/blog/tangibility",
+          "collaborators": [],
+          "description": "What design means to me",
+          "attachments": [],
+          "type": "writing",
+          "title": "Tangibility, Design, and Graphicacy",
+          "publisher": null
+        },
+        {
+          "id": "cMtTZizHyUgfujUioeml",
+          "year": "2022",
+          "heading": "Materials and Makers",
+          "url": "https://charlsyang.com/blog/materials-and-makers",
+          "collaborators": [],
+          "description": "Why (I think) designers should code",
+          "attachments": [],
+          "type": "writing",
+          "title": "Materials and Makers",
+          "publisher": null
+        }
+      ]
+    },
+    {
+      "name": "Work Experience",
+      "items": [
+        {
+          "id": "vWN2l41KhJWJvQEiWR0S",
+          "year": "2024 — Now",
+          "heading": "Interaction Designer at Google",
+          "url": "http://google.com",
+          "collaborators": [],
+          "description": "",
+          "attachments": [],
+          "type": "workExperience",
+          "title": "Interaction Designer",
+          "company": "Google",
+          "location": "Mountain View, CA"
+        },
+        {
+          "id": "2IR5ADI2FMnV9jDRAcL8",
+          "year": "2023 — 2024",
+          "heading": "Product Designer (Contract) at Microsoft",
+          "url": "https://www.microsoft.com/en-us/surface",
+          "collaborators": [],
+          "description": "Bridging bits and atoms on the Surface design team, supporting Surface App and exploring AI-augmented multimodal interactions.",
+          "attachments": [],
+          "type": "workExperience",
+          "title": "Product Designer (Contract)",
+          "company": "Microsoft",
+          "location": "Redmond, WA"
+        },
+        {
+          "id": "m6HVzzGij5QMpubGLAVM",
+          "year": "2022 — 2022",
+          "heading": "Product Designer (Intern/Contract) at Rubrik",
+          "url": "https://rubrik.com",
+          "collaborators": [],
+          "description": "Designed the landing page for Rubrik’s design system website, a set of animated icons for the system-wide app switcher menu, as well as UX flows for existing and new features on Rubrik’s data security SaaS platform.",
+          "attachments": [],
+          "type": "workExperience",
+          "title": "Product Designer (Intern/Contract)",
+          "company": "Rubrik",
+          "location": "Remote in Seattle"
+        },
+        {
+          "id": "DGjKpnzgxkvsEBKIp7VV",
+          "year": "2021 — 2021",
+          "heading": "Interaction Design Intern at IDEO",
+          "url": "https://ideo.com",
+          "collaborators": [],
+          "description": "Ideated, designed, and iterated on multiple digital concepts of the future retail experience for a multinational skincare and beauty retailer.",
+          "attachments": [],
+          "type": "workExperience",
+          "title": "Interaction Design Intern",
+          "company": "IDEO",
+          "location": "Shanghai, China"
+        },
+        {
+          "id": "pdKj8hE3KfQgJsB7Ri02",
+          "year": "2020 — 2020",
+          "heading": "Product Design Intern at Tide",
+          "url": "https://tide.fm/en_US/",
+          "collaborators": [],
+          "description": "Redesigned the sign-up experience on mobile and web for Tide, a mindfulness app with a 4.9 star rating and 1.4M daily active users.",
+          "attachments": [],
+          "type": "workExperience",
+          "title": "Product Design Intern",
+          "company": "Tide",
+          "location": "Guangzhou, China"
+        },
+        {
+          "id": "20jaW1Ytc0UwJS6u9vhz",
+          "year": "2019 — 2019",
+          "heading": "UI/UX Design Intern at NIO",
+          "url": "https://nio.com",
+          "collaborators": [],
+          "description": "Expedited the digital transformation of NIO’s Design Language System and redesigned two pages of the NIO marketing website.",
+          "attachments": [],
+          "type": "workExperience",
+          "title": "UI/UX Design Intern",
+          "company": "NIO",
+          "location": "Shanghai, China"
+        },
+        {
+          "id": "LVGt6K1igtnOaHFvmvVh",
+          "year": "2017 — 2018",
+          "heading": "Chief Designer at Outing Travel",
+          "url": "https://www.linkedin.com/company/outing-travel-轻旅圈/about/",
+          "collaborators": [
+            {
+              "displayName": "Alan Zhang",
+              "profilePhoto": "/content/collaborators/alanz.jpg",
+              "profileURL": "https://read.cv/alanz"
+            }
+          ],
+          "description": "Designed for various mediums from print to digital at Outing Travel, a community platform for like-minded travelers.",
+          "attachments": [],
+          "type": "workExperience",
+          "title": "Chief Designer",
+          "company": "Outing Travel",
+          "location": "Shenzhen, China"
+        }
+      ]
+    },
+    {
+      "name": "Projects",
+      "items": [
+        {
+          "id": "NzFTdY8JVi2jBLLnVmOp",
+          "year": "2024",
+          "heading": "Copilot+ PC Introduction at Microsoft",
+          "url": "https://youtu.be/OPklYglhlhg?si=nubWM8ozI7IjiJyS&t=345",
+          "collaborators": [],
+          "description": "Led the design of Copilot+ PC features introduction experience in the Windows setup process from end to end to increase awareness and facilitate discovery.",
+          "attachments": [
+            {
+              "type": "video",
+              "width": 2890,
+              "height": 1632,
+              "url": "/content/media/Copilot-PC-Introduction-at-Microsoft-1.mp4"
+            },
+            {
+              "type": "video",
+              "width": 1920,
+              "height": 960,
+              "url": "/content/media/Copilot-PC-Introduction-at-Microsoft-2.mp4"
+            }
+          ],
+          "type": "project",
+          "title": "Copilot+ PC Introduction",
+          "company": "Microsoft"
+        },
+        {
+          "id": "bKnefmy8GuDIqHhck9H0",
+          "year": "2024",
+          "heading": "Surface App Icon Redesign at Microsoft",
+          "url": "https://apps.microsoft.com/detail/9wzdncrfjb8p?hl=en-US&gl=US",
+          "collaborators": [],
+          "description": "To strengthen and streamline Surface App’s identity, the new icon increases the logo presence while trying to strike a balance between the physicality of devices and the flat Windows 11 icon design language.",
+          "attachments": [
+            {
+              "type": "image",
+              "width": 3840,
+              "height": 2160,
+              "url": "/content/media/Surface-App-Icon-Redesign-at-Microsoft-1.png"
+            },
+            {
+              "type": "image",
+              "width": 3840,
+              "height": 2160,
+              "url": "/content/media/Surface-App-Icon-Redesign-at-Microsoft-2.png"
+            },
+            {
+              "type": "image",
+              "width": 3840,
+              "height": 2160,
+              "url": "/content/media/Surface-App-Icon-Redesign-at-Microsoft-3.png"
+            }
+          ],
+          "type": "project",
+          "title": "Surface App Icon Redesign",
+          "company": "Microsoft"
+        },
+        {
+          "id": "Rbvy2I5OEyNFqBpNHT2s",
+          "year": "2022",
+          "heading": "Product Icons Redesign at Rubrik",
+          "url": null,
+          "collaborators": [],
+          "description": "",
+          "attachments": [
+            {
+              "type": "image",
+              "width": 1920,
+              "height": 1080,
+              "url": "/content/media/Product-Icons-Redesign-at-Rubrik-1.png"
+            },
+            {
+              "type": "video",
+              "width": 2046,
+              "height": 1080,
+              "url": "/content/media/Product-Icons-Redesign-at-Rubrik-2.mp4"
+            },
+            {
+              "type": "image",
+              "width": 1920,
+              "height": 1080,
+              "url": "/content/media/Product-Icons-Redesign-at-Rubrik-3.png"
+            },
+            {
+              "type": "image",
+              "width": 1920,
+              "height": 1080,
+              "url": "/content/media/Product-Icons-Redesign-at-Rubrik-4.png"
+            },
+            {
+              "type": "image",
+              "width": 1920,
+              "height": 1080,
+              "url": "/content/media/Product-Icons-Redesign-at-Rubrik-5.png"
+            }
+          ],
+          "type": "project",
+          "title": "Product Icons Redesign",
+          "company": "Rubrik"
+        },
+        {
+          "id": "zJCxKFGbevnNcmwqKADR",
+          "year": "2021",
+          "heading": "Store of the Future at IDEO",
+          "url": "https://www.ideo.com/works/sephora",
+          "collaborators": [],
+          "description": "Worked in a project team of four helping Sephora reconnect with digital-first shoppers by transforming its in-store experience in Asia. Ideated, designed, and iterated on digital concepts for multiple in-store touch points.",
+          "attachments": [
+            {
+              "type": "image",
+              "width": 2880,
+              "height": 1640,
+              "url": "/content/media/Store-of-the-Future-at-IDEO-1.png"
+            },
+            {
+              "type": "image",
+              "width": 4908,
+              "height": 2762,
+              "url": "/content/media/Store-of-the-Future-at-IDEO-2.jpg"
+            }
+          ],
+          "type": "project",
+          "title": "Store of the Future",
+          "company": "IDEO"
+        }
+      ]
+    },
+    {
+      "name": "Side Projects",
+      "items": [
+        {
+          "id": "5vUmsEIQ5Mjz6Gimr3Cx",
+          "year": "2023",
+          "heading": "Embodied Type Glove",
+          "url": null,
+          "collaborators": [],
+          "description": "A smart glove that lets you interact with typography in a tangible way.",
+          "attachments": [],
+          "type": "sideProject",
+          "title": "Embodied Type Glove",
+          "company": null
+        }
+      ]
+    },
+    {
+      "name": "Education",
+      "items": [
+        {
+          "id": "7zcy69CrfI59QGd6xdE7",
+          "year": "2021 — 2023",
+          "heading": "Master of Human Centered Design and Engineering at University of Washington",
+          "url": "https://www.hcde.washington.edu/",
+          "collaborators": [],
+          "description": null,
+          "attachments": [],
+          "type": "education",
+          "degree": "Master of Human Centered Design and Engineering",
+          "school": "University of Washington",
+          "location": "Seattle, Washington"
+        },
+        {
+          "id": "2O08WSfeCB9AROJQ4s7n",
+          "year": "2016 — 2020",
+          "heading": "Bachelor of Business Administration at The Chinese University of Hong Kong, Shenzhen",
+          "url": "https://www.cuhk.edu.cn/en",
+          "collaborators": [
+            {
+              "displayName": "Alan Zhang",
+              "profilePhoto": "/content/collaborators/alanz.jpg",
+              "profileURL": "https://read.cv/alanz"
+            }
+          ],
+          "description": "Marketing and Communication",
+          "attachments": [],
+          "type": "education",
+          "degree": "Bachelor of Business Administration",
+          "school": "The Chinese University of Hong Kong, Shenzhen",
+          "location": "Shenzhen, China"
+        }
+      ]
+    },
+    {
+      "name": "Contact",
+      "items": [
+        {
+          "id": "QavYW4z4iZD7Cn5eMKXw",
+          "platform": "Telegram",
+          "handle": "charlsyang",
+          "url": "https://t.me/charlsyang"
+        },
+        {
+          "id": "gR3bC7LnQwfbtQDBARGA",
+          "platform": "Instagram",
+          "handle": "charlsyang",
+          "url": "https://instagram.com/charlsyang"
+        },
+        {
+          "id": "tIhRhOW4lCd2878gRx4n",
+          "platform": "LinkedIn",
+          "handle": "charlsyang",
+          "url": "https://linkedin.com/in/charlsyang"
+        },
+        {
+          "id": "GHrhvLV7GsT5lkTHhUUI",
+          "platform": "Website",
+          "handle": "charlsyang.com",
+          "url": "https://charlsyang.com"
+        },
+        {
+          "id": "t9tqrDRq0DvMLW6xTDID",
+          "platform": "Email",
+          "handle": "hi@charlsy.me",
+          "url": "mailto:hi@charlsy.me"
+        }
+      ]
+    }
+  ]
+}
