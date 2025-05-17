@@ -3,6 +3,7 @@ import RichText from "./RichText";
 import Arrow12 from "./Arrow12";
 import styles from "./Profile.module.css";
 import Attachments from "./Attachments";
+import Memorial from "./Memorial";
 
 type ProfileProps = {
   cv: any;
@@ -69,6 +70,7 @@ const Profile: React.FC<ProfileProps> = ({ cv }) => {
           </section>
         );
       })}
+      <Memorial />
     </div>
   );
 };
