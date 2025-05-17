@@ -3,11 +3,11 @@
     "profilePhoto": "/content/media/profilePhoto.jpg",
     "username": "charlsy",
     "displayName": "Charlsy Yang",
-    "profession": "Designer",
+    "profession": "Software Designer",
     "location": "Mountain View",
     "pronouns": "He/Him",
-    "byline": "Designer in Mountain View, He/Him",
-    "website": "https://charlsyang.com",
+    "byline": "Software Designer",
+    "website": "charlsyang.com",
     "websiteURL": "https://charlsyang.com",
     "about": "I am a software designer with craft expertise in visual and interaction design and a passion for web development. I have worked in a variety of fast-paced, high-impact professional environments such as startups, consultancy, and in-house brand and product design teams.\n\nI am excited about toolmaking and storytelling on the web, working on new interfaces and interactions, building things from zero to one, and tackling complex problems with simple solutions.",
     "status": {
@@ -660,10 +660,41 @@
           "id": "5vUmsEIQ5Mjz6Gimr3Cx",
           "year": "2023",
           "heading": "Embodied Type Glove",
-          "url": null,
+          "url": "https://www.youtube.com/watch?v=BZZ9hu9jWSQ",
           "collaborators": [],
-          "description": "A smart glove that lets you interact with typography in a tangible way.",
-          "attachments": [],
+          "description": "Embodied type glove is a smart glove that allows users to see how the style of a font changes in response to their gestures by collecting analog data and mapping it to the variable axes of the font.",
+          "attachments": [
+            {
+              "type": "image",
+              "width": 4032,
+              "height": 3024,
+              "url": "/content/writing/embodied-type-glove-1.jpg"
+            },
+            {
+              "type": "image",
+              "width": 4928,
+              "height": 3264,
+              "url": "/content/writing/embodied-type-glove-2.jpg"
+            },
+            {
+              "type": "image",
+              "width": 3264,
+              "height": 4928,
+              "url": "/content/writing/embodied-type-glove-3.jpg"
+            },
+            {
+              "type": "image",
+              "width": 3264,
+              "height": 4928,
+              "url": "/content/writing/embodied-type-glove-4.jpg"
+            },
+            {
+              "type": "video",
+              "width": 1920,
+              "height": 1080,
+              "url": "/content/writing/embodied-type-glove-5.mp4"
+            }
+          ],
           "type": "sideProject",
           "title": "Embodied Type Glove",
           "company": null

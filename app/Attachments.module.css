@@ -42,7 +42,7 @@
 .media::after {
   position: absolute;
   inset: 0;
-  content: '';
+  content: "";
   border: 1px solid var(--transparentBorder);
   border-radius: inherit;
   z-index: 10;

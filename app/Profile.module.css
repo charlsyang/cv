@@ -21,6 +21,25 @@
   color: var(--grey2);
 }
 
+.profileLinks {
+  display: flex;
+  flex-direction: row;
+  column-gap: 16px;
+  margin-top: 5px;
+}
+
+.website {
+  background-color: var(--wash2);
+  height: 24px;
+  font-size: 13px;
+  color: var(--grey2);
+  padding: 0px 10px;
+  border-radius: 12px;
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+}
+
 .profilePhoto {
   width: 92px;
   height: 92px;
@@ -68,6 +87,12 @@
   display: flex;
   flex-direction: row;
   column-gap: 36px;
+  align-items: baseline;
+}
+
+.experienceContent {
+  flex: 1 1;
+  word-break: break-word;
 }
 
 .description {
@@ -83,6 +108,7 @@
 
 .year {
   color: var(--grey3);
+  font-size: 15px;
   font-variant-numeric: tabular-nums;
   position: relative;
   flex-shrink: 0;
@@ -120,7 +146,6 @@
 }
 
 @media (max-width: 480px) {
-  
   .about .description,
   .experiences,
   .contacts {
