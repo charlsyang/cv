@@ -431,7 +431,7 @@
           "heading": "Interaction Designer at Google",
           "url": "http://google.com",
           "collaborators": [],
-          "description": "",
+          "description": "¹ Leading horizontal design system efforts for shopping ads on Google Search. ² Optimizing Product Listing Ads design and developing new ad formats for Google Shopping.",
           "attachments": [],
           "type": "workExperience",
           "title": "Interaction Designer",
@@ -444,7 +444,7 @@
           "heading": "Product Designer (Contract) at Microsoft",
           "url": "https://www.microsoft.com/en-us/surface",
           "collaborators": [],
-          "description": "Bridging bits and atoms on the Surface design team, supporting Surface App and exploring AI-augmented multimodal interactions.",
+          "description": "Bridging bits and atoms on the Surface design team, designing the Surface app and prototyping design concepts for AI-augmented multimodal interactions.",
           "attachments": [],
           "type": "workExperience",
           "title": "Product Designer (Contract)",
@@ -453,7 +453,7 @@
         },
         {
           "id": "m6HVzzGij5QMpubGLAVM",
-          "year": "2022 — 2022",
+          "year": "2022",
           "heading": "Product Designer (Intern/Contract) at Rubrik",
           "url": "https://rubrik.com",
           "collaborators": [],
@@ -466,11 +466,11 @@
         },
         {
           "id": "DGjKpnzgxkvsEBKIp7VV",
-          "year": "2021 — 2021",
+          "year": "2021",
           "heading": "Interaction Design Intern at IDEO",
           "url": "https://ideo.com",
           "collaborators": [],
-          "description": "Ideated, designed, and iterated on multiple digital concepts of the future retail experience for a multinational skincare and beauty retailer.",
+          "description": "Ideated, designed, and iterated on multiple digital concepts of the future retail experience for Sephora Asia.",
           "attachments": [],
           "type": "workExperience",
           "title": "Interaction Design Intern",
@@ -479,7 +479,7 @@
         },
         {
           "id": "pdKj8hE3KfQgJsB7Ri02",
-          "year": "2020 — 2020",
+          "year": "2020",
           "heading": "Product Design Intern at Tide",
           "url": "https://tide.fm/en_US/",
           "collaborators": [],
@@ -492,7 +492,7 @@
         },
         {
           "id": "20jaW1Ytc0UwJS6u9vhz",
-          "year": "2019 — 2019",
+          "year": "2019",
           "heading": "UI/UX Design Intern at NIO",
           "url": "https://nio.com",
           "collaborators": [],
@@ -511,7 +511,7 @@
           "collaborators": [
             {
               "displayName": "Alan Zhang",
-              "profilePhoto": "/content/collaborators/alanz.jpg",
+              "profilePhoto": "content/collaborators/alanz.jpg",
               "profileURL": "https://read.cv/alanz"
             }
           ],

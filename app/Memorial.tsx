@@ -17,11 +17,18 @@ const Memorial = () => {
           onClick={() => setIsClicked(!isClicked)}
         >
           <Image
-            src="/content/media/plate.png"
-            alt="Memorial plate"
+            src="/content/media/plaque-light.png"
+            alt="Memorial plaque"
             width={96}
             height={96}
-            className={styles.plate}
+            className={`${styles.plate} ${styles.lightPlate}`}
+          />
+          <Image
+            src="/content/media/plaque-dark.png"
+            alt="Memorial plaque"
+            width={96}
+            height={96}
+            className={`${styles.plate} ${styles.darkPlate}`}
           />
         </div>
         <p className={`${styles.hiddenText}`}>
